@@ -1,0 +1,7 @@
+{
+  "name": "Exeo Tech Recruitment LP",
+  "description": "A recruitment-focused landing page for Exeo Tech with AI-powered candidate support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
